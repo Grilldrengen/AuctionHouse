@@ -1,0 +1,5 @@
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Server\bin\Debug\Server.exe.config
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Server\bin\Debug\Server.exe
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Server\bin\Debug\Server.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Server\obj\Debug\Server.exe
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Server\obj\Debug\Server.pdb

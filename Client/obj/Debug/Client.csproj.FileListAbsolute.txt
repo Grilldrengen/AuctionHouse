@@ -1,0 +1,6 @@
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Client\bin\Debug\Client.exe.config
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Client\bin\Debug\Client.exe
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Client\bin\Debug\Client.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Client\obj\Debug\Client.exe
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Client\obj\Debug\Client.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

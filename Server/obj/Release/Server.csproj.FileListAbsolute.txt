@@ -1,0 +1,5 @@
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Server\bin\Release\Server.exe.config
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Server\bin\Release\Server.exe
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Server\bin\Release\Server.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Server\obj\Release\Server.exe
+c:\users\nikol\documents\visual studio 2015\Projects\AuktionsHus\Server\obj\Release\Server.pdb
